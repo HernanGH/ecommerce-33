@@ -1,0 +1,21 @@
+{
+  "name": "clase33",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HernanGH/ecommerce-33.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HernanGH/ecommerce-33/issues"
+  },
+  "homepage": "https://github.com/HernanGH/ecommerce-33#readme"
+}
