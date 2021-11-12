@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/HernanGH/ecommerce-33/issues"
   },
-  "homepage": "https://github.com/HernanGH/ecommerce-33#readme"
+  "homepage": "https://github.com/HernanGH/ecommerce-33#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
